@@ -1,0 +1,32 @@
+body {
+  background-color: rebeccapurple;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-color: grey; */
+  width: 100vw;
+  height: 100vh;
+}
+
+.card {
+  background-color: white;
+
+  /* width: 20%; */
+  /* padding: 100px 250px; */
+}
+
+h3 {
+  padding: 20px 0  ;
+}
+
+#text {
+  width: 700px;
+}
+
+#btn {
+  margin-bottom: 2%;
+}
